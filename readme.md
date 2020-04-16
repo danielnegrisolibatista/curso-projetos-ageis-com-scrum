@@ -31,7 +31,9 @@ As estatísticas dizem que:
 
 
 ### Gestão de Projetos Tradicional x Gestão de Projetos Ágil
-**Tradicional (Waterfall):** Só permite que o projeto avance quando uma fase está inteiramente completa.
+**Tradicional (Waterfall):** 
+
+Só permite que o projeto avance quando uma fase está inteiramente completa.
 As fases do projeto são:
 1. Requirement (requirement doc, prepare use cases)
 2. Design (software architecture, map the stackholders)
@@ -40,7 +42,9 @@ As fases do projeto são:
 5. Maintenance (check erros, optmize capatibilities)
 
 
-**Ágil:** Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
+**Ágil:** 
+
+Software construído por partes (incremental) e cada parte executa-se em um ciclo (iterativo)
 As fases de cada ciclo:
 1. Requisitos
 2. Análise
@@ -100,6 +104,7 @@ As fases de cada ciclo:
 
 #### Exercício final
 **1) Qual característica de um projeto ágil?**
+
 a) Escopo definido na fase inicial do projeto
 b) Escopo definido ao longo do projeto
 c) Resistente à mudanças
@@ -109,6 +114,7 @@ e) Cliente paga mais caro para o proejto seja mais rápido
 Resposta: B
 
 **2) Quais são os pilares do SCRUM?**
+
 a) Desenvolvedores e Gerente
 b) Processos e Mudanças
 c) Adpatação, Transparência e Inspeção
@@ -140,6 +146,7 @@ Resposta: C
 
 #### Exercício final
 **1) Quem é o responsável por priorizar o Backlog?**
+
 a) Scrum Master
 b) Time DEV
 c) Área de Negócios
@@ -148,6 +155,7 @@ d) Product Owner
 Resposta: D
 
 **2) Quem é o responsável por garantir que o time utilize da melhor forma o SCRUM?**
+
 a) Scrum Master
 b) Time DEV
 c) Área de Negócios
@@ -156,6 +164,7 @@ d) Product Owner
 Resposta: A
 
 **3) Quem é o responsável por desenhar, construir e entregar o software funcionando?**
+
 a) Scrum Master
 b) Time DEV
 c) Área de Negócios
@@ -167,12 +176,14 @@ Resposta: B
 ### Conceitos básicos
 
 **Time Box**
+
 Tempo máximo para fazer uma cerimônia ou sprint
 Exemplo:
 - Daily Meeting com Time Box de no máximo 15 minutos;
 - Sprint com Time Box de 30 dias corridos.
 
 **Sprint**
+
 O significado da palavra é corrida ou arrancada.
 É o principal evento do SCRUM e cada Sprint tem o período de 30 dias corridos (ou menos).
 
@@ -246,6 +257,7 @@ Composição de uma Sprint:
 **Exemplo Nubank**
 
 **Gestão de Projetos Tradicional**
+
 No planejamento inicial do projeto poderíamos ter todas as funcionalidades:
 - Cartão de crédito;
 - Benefícios;
@@ -253,6 +265,7 @@ No planejamento inicial do projeto poderíamos ter todas as funcionalidades:
 - Empréstimos;
 
 **Gestão de Projetos Ágil**
+
 No planejamento inicial do projeto poderíamos o mínimo produto viável, ou seja, o mínimo esforço de desenvolvimento;
 - Cartão de crédito
 
@@ -306,6 +319,7 @@ Demanda muito grande onde é necessária dividir em várias histórias e consequ
 
 #### Exercício final
 **1) Qual a característica melhor decreve uma atividade do PO?**
+
 a) Recebe a demanda e passa para o time
 b) Escreve a história e valida com o demandante
 c) Entende a demanda e extrai o maior valor possível
@@ -314,6 +328,7 @@ d) Escreve a história e deixa o time avaliar os impactos.
 Resposta: C
 
 **2) Qual o papel do PO dentro do Time?**
+
 a) Ajuda o Time da entender a demanda e tira as dúvidas ao longo da Sprint
 b) Coordena as pessoas do Time e acompanha suas atividades
 c) Remove os impedimentos que impactam o desenvolvimento da Sprint
@@ -357,6 +372,7 @@ Itens que podem afetar o prazo, custo ou escopo de um projeto de maneira que pod
 
 #### Exercício final
 **1) Qual método é mais indicado para definir o Escopo do projeto?**
+
 a) Ler a solicitação junto com o Time de Desenvolvimento
 b) Pedir para o Demandante escrever o que ele quer
 c) Entender qual o ganho antes de definir o escopo
@@ -365,6 +381,7 @@ d) Escreve o escopo baseado no seu conhecimento do produto
 Resposta: C
 
 **2) O que compõe um Product Backlog?**
+
 a) História e Escopo
 b) Escopo e Atividade
 c) Épico e Atividade
@@ -432,6 +449,7 @@ Com as Histórias mapeadas e as Tarefas descritas é definido a Sprint Backlog, 
 
 #### Exercício final
 **1) Qual característica melhor descreve uma História?**
+
 a) Uma tarefa descrita em nível executivo
 b) Uma tarefa descrita em nível de desenvolvimento
 c) Uma tarefa descrita em nível de negócio
@@ -440,6 +458,7 @@ d) Uma tarefa descrita em nível de entrega
 Resposta: C
 
 **2) O que é uma Tarefa?**
+
 a) Um conjunto de Histórias que o Time de Desenvolvimento deve desempenhar para entregar o projeto
 b) Um conjunto de Atividades que o Time de Desenvolvimento deve desempenhar para entregar a História
 c) Um conjunto de Épicos que o Time de Desenvolvimento deve desempenhar para entregar a História
@@ -448,6 +467,7 @@ d) Um conjunto de atividades que o PO deve desempenhar para entregar para o Time
 Resposta: B
 
 **3) O que é um Critério de Aceite?**
+
 a) É uma lista de demandas que o PO deve atingir na entrega das tarefas
 b) É uma lista de critérios para que o Épico atenda aos requisitos do cliente
 c) É uma lista de critérios para que a História atenda aos requisitos do cliente
@@ -456,6 +476,7 @@ d) É uma lista de cenários de teste
 Resposta: C
 
 **4) O que é Planning Poker?**
+
 a) Uma atividade de integração do Time
 b) Uma atividade de mensuração da capacidade do Time
 c) Uma atividade de mensuração da complexidade do Épico descrito pelo cliente
@@ -523,6 +544,7 @@ Pode-se medir o amadurecimento da equipe utilizando os pilares do SCRUM:
 
 #### Exercício final
 **1) Quem tem participação obrigatória da Daily?**
+
 a) O Time de Desenvolvimento e o SM
 b) O Time de Desenvolvimento e o PO
 c) O Time de Desenvolvimento apenas
@@ -531,6 +553,7 @@ d) O Time de Desenvolvimento, o SM e o PO
 Resposta: C
 
 **2) Quem tem participação obrigatória da Retrospectiva?**
+
 a) O Time de Desenvolvimento e o SM
 b) O Time de Desenvolvimento e o PO
 c) O Time de Desenvolvimento apenas
@@ -539,6 +562,7 @@ d) O Time de Desenvolvimento, o SM e o PO
 Resposta: A
 
 **3) Em que momento acontece o Refinamento?**
+
 a) O Refinamento acontece um passo antes da Daily
 b) O Refinamento acontece um passo depois da Restrospectiva
 c) O Refinamento acontece um passo antes da Planning
@@ -547,6 +571,7 @@ d) O Refinamento acontece um passo depois da Review
 Resposta: C
 
 **3) Qual o principal objetivo da Review?**
+
 a) Verificar se o Time entregou o trabalho direito
 b) Verificar se o PO entendeu a demanda
 c) Verificar se a demanda foi priorizada na Sprint
