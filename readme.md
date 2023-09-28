@@ -67,7 +67,7 @@ As fases de cada ciclo:
 | Escopo definido na fase inicial do projeto (preditivo)  | Escopo definido ao longo do Projeto (Adaptativo)  |
 | Projeto é controlado por fases e marcos  |  Projeto é controlado por funcionalidades entregues |
 | Cliente só vê o software funcionando na fase final do Projeto | Cliente pode ver parte do software funcionando na parte inicial do projeto.  |
-|Resistência a mudanças|Mudanças constatntes de acordo com o feedback contínuos|
+|Resistência a mudanças|Mudanças constantes de acordo com feedbacks contínuos|
 
 > Em projetos tradicionais, você corre o risco de descobrir que estava errado depois de meses. Com o SCRUM, você descobre que estava errado em no máximo 30 dias.
 
@@ -89,7 +89,7 @@ As fases de cada ciclo:
 
 - **Transparência**
   - Conversar mais e escrever menos;
-  - Demonstrar o software constantemente aos usuários e obter feedbacks constates.
+  - Demonstrar o software constantemente aos usuários e obter feedbacks constantes.
 - **Adaptação**
   - Requisitos mudam ao longo do tempo;
 - **Inspeção**
@@ -416,7 +416,7 @@ Uma forma eficiente de definir o escopo corretamente é inverter a ordem e come�
 
 #### Épicos (Epic)
 
-Incremento sem muito detalhamento, ajuda a te direcioanr dos caminhos que deve seguir.
+Incremento sem muito detalhamento, ajuda a te direcionar dos caminhos que deve seguir.
 
 #### História (User Stories)
 
@@ -587,7 +587,7 @@ Resposta: D
 
 O *Stakeholder* é uma pessoa ou um grupo que legítima as ações de uma organização e que tem um papel direto ou indireto na gestão e resultados dessa mesma organização. Desta forma, um *Stakeholder* pode se afetado positivamente ou negativamente, dependendo das suas politícas e forma de atuação.
 
-Alguns exemplos de *Stakeholder* de uma empresa pode ser os seus funcionários, gestores, gerentes, proprietários, fornecedors, concorrentes, ONGs, clientes, o Etados, credores, sineicartos e diversas outras pessoas ou empresas que estejam com uam determinada ação ou projeto.
+Alguns exemplos de *Stakeholder* de uma empresa pode ser os seus funcionários, gestores, gerentes, proprietários, fornecedores, concorrentes, ONGs, clientes, o Estado, credores, sindicatos e diversas outras pessoas ou empresas que estejam com uma determinada ação ou projeto.
 
 ## Aula II - Rotinas de um Time Ágil
 
@@ -627,7 +627,7 @@ A ideia principal e ver e validar se a entrega está de acordo com o que foi sol
 
 ### Maturidade da Equipe
 
-Um Time nunca será maduro e a empresa não é madura, um time nunca será ágil se a empresa tem uma Gestão Tradicional (Waterfall), não adianta passar pela Sprint e tem que passar por um processo de gestão de mudança.
+Um Time nunca será maduro se a empresa não é madura, um time nunca será ágil se a empresa tem uma Gestão Tradicional (Waterfall), não adianta passar pela Sprint e tem que passar por um processo de gestão de mudança.
 o Amadurecimento do Time está diretamente ligado ao ambiente que o Time está.
 Pode-se medir o amadurecimento da equipe utilizando os pilares do SCRUM:
 
